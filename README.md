@@ -92,6 +92,15 @@ factors in problem-solving styles.
 
 More information about GenderMag can be found [here](http://gendermag.org/).
 
+## How GenderMag Works
+
+Do steps 1-2 then repeat steps 3a-3e, as in the figure below, 
+until the scenario is finished. 
+
+<a href="http://gendermag.org/gendermag.php" title="GenderMagProcess" >
+    <img src="images/genderMagMethod.png" 
+    width="200" height="200" style="margin-top: 10px;" align="center">
+  </a>
 
 # How to Run a GenderMag Session Using the Tool
 A GenderMag session is simply an instance of using the GenderMag method. If 
