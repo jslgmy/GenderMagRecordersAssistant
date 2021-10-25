@@ -99,7 +99,7 @@ until the scenario is finished.
 
 <a href="http://gendermag.org/gendermag.php" title="GenderMagProcess" >
     <img src="images/genderMagMethod.png" 
-    width="200" height="200" style="margin-top: 10px;" align="center">
+    width="500" height="500" style="margin-top: 10px;" align="center">
   </a>
 
 # How to Run a GenderMag Session Using the Tool
