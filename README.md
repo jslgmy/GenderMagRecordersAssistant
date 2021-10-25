@@ -65,6 +65,33 @@ Tutorial for download on Mac: https://youtu.be/ji1sMHljlLQ
   
   For more details about extension installation [click here](https://support.google.com/chrome_webstore/answer/2664769?hl=en)
 
+# The GenderMag Method
+Although gender differences in a technological world receive significant 
+research attention, much of this research and practice aims at how society
+and education can impact the success and retention of women in computer 
+science. The possibility of gender biases within software, however, has 
+received almost no attention. We hypothesize that the human problem-solving
+styles supported by software have strong gender biases, and further that 
+addressing these gender biases can help problem solvers of any gender. 
+Evidence from other fields and investigations in our own have significant 
+evidence supporting this hypothesis.
+
+We are investigating gender biases in people's problem-solving experiences 
+with software. We term this research topic "gender HCI" to reflect its 
+focus on human-computer interaction (HCI) properties that take gender 
+differences into account in the design of software.
+
+The GenderMag Method is a process and set of materials to help with the 
+process. It enables software practitioners (e.g., developers, managers, 
+UX professionals) find gender-inclusivity "bugs" in their software, 
+and then fix the bugs they find.
+
+The core of the GenderMag Method is a gender-specialized cognitive 
+walkthrough and a set of GenderMag personas that focus on five cognitive 
+factors in problem-solving styles.
+
+More information about GenderMag can be found [here](http://gendermag.org/).
+
 
 # How to Run a GenderMag Session Using the Tool
 A GenderMag session is simply an instance of using the GenderMag method. If 
