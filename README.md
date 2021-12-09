@@ -63,7 +63,10 @@ Tutorial for download on Mac: https://youtu.be/ji1sMHljlLQ
     <img src="images/ico-chrome.png"  >
   </a> 
   
-https://user-images.githubusercontent.com/49324049/145315811-245b39dd-e940-4bd3-8925-560d58a1c0c3.mp4
+
+
+https://user-images.githubusercontent.com/49324049/145315940-5f15bd62-6a67-4987-a641-4828f4d76bee.mp4
+
 
 
   For more details about extension installation [click here](https://support.google.com/chrome_webstore/answer/2664769?hl=en)
